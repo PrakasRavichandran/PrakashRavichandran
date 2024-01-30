@@ -1,0 +1,25 @@
+{
+  "name": "Prakash Ravichandran",
+  "designation": "Embedded Hardware & Software Engineer",
+  "company": {
+    "name": "Unibose Technology",
+    "url": "https://unibose.com"
+  },
+  "description": "I am a embedded engineer at the Research and Development (R&D) at Unibose Technology, Chennai , actively involved in cutting-edge research projects in Robotics & Industrial Automation, DSP, Power Electronics, Instrumentation & Control System. My focus includes IoT, AI, Machine Learning on Microcontrollers, and Firmware, with a deep passion for developing innovative solutions that benefit sectors like robotics and automation, healthcare, and education. \nIn addition to my research responsibilities, I am actively involved in making resources , developing project modules, and exploring various tech. My enthusiasm for learning new electrical & electronics topics and research embedded drives me to make significant contributions and positively impact experiences. I am constantly striving to expand my knowledge and expertise in the field, with the ultimate goal of making a meaningful impact through my work.",
+  "socialLinks": [
+    {
+      "name": "github",
+      "url": "https://github.com/PrakasRavichandran"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/in/prakashravichandran10"
+    },
+     {
+      "name": "twitter",
+      "url": "https://twitter.com/Prakash_r10"
+    }
+  ],
+  "resume": "files/prakashravichandran-cv.pdf",
+  "note": "Seeking new opportunities in Embedded Systems."
+}

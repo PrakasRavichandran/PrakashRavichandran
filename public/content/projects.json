@@ -1,0 +1,266 @@
+[
+  {
+    "title": "ATEX ZONE 0 NMER with Mobile Control Unit",
+    "description": "Revolutionize safety with ATEX Zone 0 NMER, featuring a mobile control unit for efficient oil and gas tank cleaning.",
+    "link": {
+      "href": "https://unibose.com",
+      "label": "Industry"
+    },
+    "logo": {
+      "src": "project-logos/nmer.png",
+      "alt": "ATEX"
+    }
+  },
+  {
+    "title": "ATEX ZONE 0 CCTV Camera & Processing Unit",
+    "description": "Enhance surveillance in hazardous areas with ATEX Zone 0 CCTV Camera, featuring i-LED and floodlight, with processing unit for optimal functionality.",
+    "link": {
+      "href": "https://unibose.com",
+      "label": "Industry"
+    },
+    "logo": {
+      "src": "project-logos/cam.png",
+      "alt": "Camera"
+    }
+  },
+  {
+    "title": "Advanced High-Tech Manhole and Sewage Cleaning Robot",
+    "description": "Transforming sewage maintenance through an advanced robotic solution for manhole and sewage cleaning, ensuring efficiency and precision.",
+    "link": {
+      "href": "https://unibose.com",
+      "label": "Industry"
+    },
+    "logo": {
+      "src": "project-logos/manhole.png",
+      "alt": "Manhole"
+    }
+  },
+  {
+    "title": "Alumina De-Scaling Robot with Mobile Control Unit",
+    "description":"Alumina De-Scaling Robot designed for confined spaces, featuring a Mobile Control Unit for seamless operation.",
+    "link": {
+      "href": "https://unibose.com",
+      "label": "Industry"
+    },
+    "logo": {
+      "src": "project-logos/de-scale.png",
+      "alt": "Jack Hammer"
+    }
+  },
+  {
+    "title": "PowerHouse - Smart Classroom",
+    "description": "Transforming education through diverse modules including Online Library, Automatic Attendance etc.",
+    "link": {
+      "href": "https://smartclassroomiot.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/powerhouse.png",
+      "alt": "powerhouse"
+    }
+  },
+  {
+    "title": "Heaven Between Covers",
+    "description": "Efficient and user-friendly Online Library Management System for seamless organization and access to a diverse collection of general and tech books.",
+    "link": {
+      "href": "https://blog-pink.netlify.app/library",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/bookstore.png",
+      "alt": "bookstore"
+    }
+  },
+  {
+    "title": "CircuitX",
+    "description": "An intuitive RLC circuit simulator for hands-on learning and experimentation in electronics",
+    "link": {
+      "href": "https://circuitex.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/circuit.png",
+      "alt": "Circuit"
+    }
+  },
+  {
+    "title": "iScopeX",
+    "description": "Transform learning experience with Online Oscilloscope for in-depth waveform analysis and exploration",
+    "link": {
+      "href": "https://iscopex.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/oscilloscope.png",
+      "alt": "oscilloscope"
+    }
+  },
+  {
+    "title": "ElectroniX",
+    "description": "A dynamic Logic Gates Circuit Stimulator for hands-on electronic experimentation and learning",
+    "link": {
+      "href": "https://electroni-x.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/gates.png",
+      "alt": "Logic Gate"
+    }
+  },
+  {
+    "title": "J.A.R.V.I.S",
+    "description": "An AI project providing virtual assistance for information retrieval, with the next version set to feature advanced voice assistance capabilities",
+    "link": {
+      "href": "https://jarvisx.vercel.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/J.A.R.V.I.S.png",
+      "alt": "JARVIS"
+    }
+  },
+  {
+    "title": "AttSys",
+    "description": "An Automatic Attendance System utilizing RFID technology with an integrated database.",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/AttSys",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/attsys.png",
+      "alt": "Fingerprint"
+    }
+  },
+  {
+    "title": "RobArm",
+    "description": "An automation vehicle featuring a hydraulic actuator-powered robotic arm, designed for efficient sewage cleaning",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/RobArm",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/robarm.png",
+      "alt": "Robo Arm"
+    }
+  },
+  {
+    "title": "MaskMan",
+    "description": "An automatic mask detection system designed for COVID-19 safety protocols",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/Face-Mask-Detection-System-js",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/maskman.png",
+      "alt": "MaskMan"
+    }
+  },
+  {
+    "title": "EmoSense",
+    "description": " AI for facial detection, recognition, and emotion prediction in browsers",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/EmotionDetector",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/emotion.png",
+      "alt": "emotion"
+    }
+  },
+  {
+    "title": "Testing Tendulkar",
+    "description": "A web application for an insightful statistical analysis of Sachin Tendulkar's cricket career using R programming",
+    "link": {
+      "href": "https://testing-tendulkar.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/tendulkar.png",
+      "alt": "Sachin Tendulkar"
+    }
+  },
+  {
+    "title": "MovieCorn",
+    "description": "A web application for A feature-rich movies by TMDb API, offering a seamless experience for movie enthusiasts",
+    "link": {
+      "href": "https://movieecorn.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/moviecorn.png",
+      "alt": "PopCorn"
+    }
+  },
+  {
+    "title": "ChefSource",
+    "description": "A web application for utilizing TheMealDB API to provide detailed recipes for a wide range of delicious dishes",
+    "link": {
+      "href": "https://chefsource.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/chefsource.png",
+      "alt": "Chef"
+    }
+  },
+  {
+    "title": "CloudFlex",
+    "description": "A web application for harnessing the power of the OpenWeatherMap API to deliver accurate climate information for any location",
+    "link": {
+      "href": "https://cloudflex.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/cloudflex.png",
+      "alt": "Cloud"
+    }
+  },
+  {
+    "title": "Guardian of the Galaxy",
+    "description": "A web application for Explore the vastness of the Milky Way galaxy through this comprehensive overview",
+    "link": {
+      "href": "https://guardian-of-the-galaxy.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/gardianofgalaxy.png",
+      "alt": "Solar System"
+    }
+  },
+  {
+    "title": "GitHub Dev",
+    "description": "A web application for a tool for searching GitHub users and obtaining their details effortlessly",
+    "link": {
+      "href": "https://gh-user-info.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/github.png",
+      "alt": "Github"
+    }
+  },
+  {
+    "title": "Thirukural",
+    "description": "A web application for exploring and learning from one of the world's ancient and greatest literary treasures",
+    "link": {
+      "href": "https://thirukuralapp.netlify.app/",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/thirukural.png",
+      "alt": "Thiruvalluvar"
+    }
+  },
+  {
+    "title": "WebDev Resource",
+    "description": "A web application for mastering web development, featuring tutorials, guides, and tools to enhance your skills",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/web-development-resources",
+      "label": "Open Source"
+    },
+    "logo": {
+      "src": "project-logos/webdev.png",
+      "alt": "WebDev Resource"
+    }
+  }
+]

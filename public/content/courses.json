@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Advanced Circuit Analysis",
+    "author": "Prakash Ravichandran",
+    "description": "Detailed, step-by-step approach to understanding and analyzing complex circuits. Whether you're a student, engineer, or electronics enthusiast, this guide will equip you with the tools and strategies needed to navigate intricate circuitry.",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/Advanced-Circuit-Analysis",
+      "label": "Github Repository Link"
+    },
+    "logo": {
+      "src": "logos/cirana.png",
+      "alt": "Circuit Analysis Logo"
+    },
+    "publishedDate": "2024-01-26",
+    "totalDuration": "Approx. 10 days"
+  },
+  {
+    "title": "Intorduction to programming with Python (Tutorial)",
+    "author": "Prakash Ravichandran",
+    "description": "This course is designed to introduce the students to the basic concepts of office suite and to provide them with the necessary skills to use the office suite in their academic and professional life.",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/Introduction-to-Python",
+      "label": "Github Repository Link"
+    },
+    "logo": {
+      "src": "logos/python.png",
+      "alt": "Office Logo"
+    },
+    "publishedDate": "2024-01-26",
+    "totalDuration": "Approx. 10 days"
+  },
+  {
+    "title": "Embedded Systems Design and Programming",
+    "author": "Prakash Ravichandran",
+    "description": "This course is designed to introduce the students to the basic concepts of data structures and to provide them with the necessary skills to solve problems using the data structures covered in the course.",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/Embedded-Systems-Design",
+      "label": "Github Repository Link"
+    },
+    "logo": {
+      "src": "logos/embed.png",
+      "alt": "Python Logo"
+    },
+    "publishedDate": "2024-01-26",
+    "totalDuration": "Approx. 10 days"
+  },
+  {
+    "title": "Intorduction to Raspberry Pi (Tutorial)",
+    "author": "Prakash Ravichandran",
+    "description": "Dive into the world of Raspberry Pi with this easy-to-follow tutorial, perfect for beginners looking to explore the possibilities step by step.",
+    "link": {
+      "href": "https://github.com/PrakasRavichandran/Introduction-to-Raspberry-Pi",
+      "label": "Github Repository Link"
+    },
+    "logo": {
+      "src": "logos/ras-pi.png",
+      "alt": "pi Logo"
+    },
+    "publishedDate": "2024-01-26",
+    "totalDuration": "Approx. 10 days"
+  }
+]

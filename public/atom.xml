@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://prakashravichandran.vercel.app</id>
+    <title>RSS Feed - Prakash Ravichandran</title>
+    <updated>2024-01-30T07:08:37.601Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Prakash Ravichandran</name>
+        <email>prakashravichandran253@gmail.com</email>
+        <uri>https://prakashravichandran.vercel.app</uri>
+    </author>
+    <link rel="alternate" href="https://prakashravichandran.vercel.app"/>
+    <link rel="self" href="https://prakashravichandran.vercel.app/atom.xml"/>
+    <subtitle>Prakash Ravichandran's personal blog</subtitle>
+    <logo>https://prakashravichandran.vercel.app/images/og-image.png</logo>
+    <icon>https://prakashravichandran.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2024, Ibas</rights>
+    <entry>
+        <title type="html"><![CDATA[The Poisson Distribution: Your Key to Predicting the Unforeseeable]]></title>
+        <id>https://prakashravichandran.vercel.app/articles/poisson-distribution</id>
+        <link href="https://prakashravichandran.vercel.app/articles/poisson-distribution"/>
+        <updated>2023-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The blog post explores the Poisson distribution, a statistical distribution commonly used in various fields, including astronomy, to model random events. It explains the properties of the distribution, its real-world applications, and provides a step-by-step guide on how to visualize the Poisson distribution using Python. The post also discusses the issue of Poisson noise in astronomical observations and presents a practical example of how to calculate and deal with it using Python.]]></summary>
+        <content type="html"><![CDATA[The blog post explores the Poisson distribution, a statistical distribution commonly used in various fields, including astronomy, to model random events. It explains the properties of the distribution, its real-world applications, and provides a step-by-step guide on how to visualize the Poisson distribution using Python. The post also discusses the issue of Poisson noise in astronomical observations and presents a practical example of how to calculate and deal with it using Python.]]></content>
+        <author>
+            <name>Prakash Ravichandran</name>
+            <email>prakashravichandran253@gmail.com</email>
+            <uri>https://prakashravichandran.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Prakash Ravichandran</name>
+            <email>prakashravichandran253@gmail.com</email>
+            <uri>https://prakashravichandran.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dockerize Your Data Science Workflow: A Step-by-Step Guide to Setting Up Jupyter Lab on Your Private Linux Machine]]></title>
+        <id>https://prakashravichandran.vercel.app/articles/dockerizing-jupyter-notebook</id>
+        <link href="https://prakashravichandran.vercel.app/articles/dockerizing-jupyter-notebook"/>
+        <updated>2023-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to set up and deploy a Dockerized Jupyter Lab on a private Linux server, providing a secure environment for data science work. This step-by-step guide covers the installation and configuration of Docker, creation of a Jupyter Lab container, and tips for managing conda environments and accessing the Jupyter Lab interface.]]></summary>
+        <content type="html"><![CDATA[Learn how to set up and deploy a Dockerized Jupyter Lab on a private Linux server, providing a secure environment for data science work. This step-by-step guide covers the installation and configuration of Docker, creation of a Jupyter Lab container, and tips for managing conda environments and accessing the Jupyter Lab interface.]]></content>
+        <author>
+            <name>Prakash Ravichandran</name>
+            <email>prakashravichandran253@gmail.com</email>
+            <uri>https://prakashravichandran.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Prakash Ravichandran</name>
+            <email>prakashravichandran253@gmail.com</email>
+            <uri>https://prakashravichandran.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Gaussian Distribution: Understanding the Math Behind the Bell-Shaped Curve]]></title>
+        <id>https://prakashravichandran.vercel.app/articles/exploring-gaussian-distribution</id>
+        <link href="https://prakashravichandran.vercel.app/articles/exploring-gaussian-distribution"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post delves into the concept of Gaussian Distribution, a popular topic in mathematics and statistics. The post provides a comprehensive explanation of the distribution, including its properties, applications, and examples. Get to know the secrets behind the famous bell-shaped curve and how it is used in various fields. Whether you are a student, researcher, or data analyst, this post has everything you need to know about Gaussian Distribution.]]></summary>
+        <content type="html"><![CDATA[This blog post delves into the concept of Gaussian Distribution, a popular topic in mathematics and statistics. The post provides a comprehensive explanation of the distribution, including its properties, applications, and examples. Get to know the secrets behind the famous bell-shaped curve and how it is used in various fields. Whether you are a student, researcher, or data analyst, this post has everything you need to know about Gaussian Distribution.]]></content>
+        <author>
+            <name>Prakash Ravichandran</name>
+            <email>prakashravichandran253@gmail.com</email>
+            <uri>https://prakashravichandran.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Prakash Ravichandran</name>
+            <email>prakashravichandran253@gmail.com</email>
+            <uri>https://prakashravichandran.vercel.app</uri>
+        </contributor>
+    </entry>
+</feed>

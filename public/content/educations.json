@@ -1,0 +1,20 @@
+[
+  {
+    "school": "K.Ramakrishnan College of Technology",
+    "schoolURL": "https://krct.ac.in/",
+    "schoolLogo": "/images/krct.png",
+    "schoolLocation": "Kariyamanikam Road, Samayapuram,Trichy, TN - 621112.",
+    "degree": "Bachelor of Engineering - BE",
+    "major": "Electrical and Electronics Engineering",
+    "minor": "Programming Languages",
+    "date": "2018 - 2022",
+    "description": "Completed Bachelor of Engineering in EEE in 2022 with first class. Participated in extracurricular activities such as hackathons, programming challenges, and Tech-Events. These experiences have helped me develop a strong foundation in science and valuable skills.",
+    "activitiesandsocieties": [
+      "Competitive Programming",
+      "Full Stack Development",
+      "Internet of Thinks",
+      "IEEE Student",
+      "Secretary of Electra Association"
+    ]
+  }
+]

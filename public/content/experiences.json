@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Embedded Engineer",
+    "company": ", Unibose Technology",
+    "companyURL": "https://unibose.com/",
+    "companyLogo": "/images/unibose.png",
+    "location": "Plot No.28, Phase - II, CMDA Industrial Layout, Maraimalai Nagar, Chengalpattu Dist. – 603204.",
+    "type": "Full-time",
+    "date": "Mar 2023 - Present",
+    "description": "As an embedded systems engineer, I led the development of ATEX ZONE 0 compliant projects, including a robot with a control system, integrated CCTV camera with LED/Floodlight, and a sewage cleaning robot. This experience honed my skills in navigating complex engineering challenges and integrating advanced technologies within stringent standards.",
+    "skills": [
+      "Software Development",
+      "Hardware Design",
+      "RTOS",
+      "Communication Protocols",
+      "Documentation"
+    ]
+  },
+  {
+    "title": "Software Developer - Intern",
+    "company": "Scube.co",
+    "companyURL": "https://scube.co/",
+    "companyLogo": "/images/scube.png",
+    "location": "",
+    "type": "Full-time",
+    "date": "Feb 2023 - Mar 2023",
+    "description": "As a software developer intern, I played a key role in crafting diverse software applications utilizing the MERN stack. Leveraging my skills in MongoDB, Express.js, React, and Node.js, I contributed to the entire software development life cycle. Additionally, I demonstrated proficiency in version control using Git and GitHub, collaborated on design workflows with Figma, and integrated external functionalities through API usage. This experience enhanced my technical versatility, fostering a comprehensive understanding of modern software development practices.",
+    "skills": [
+      "Web Development",
+      "Programming Languages",
+      "Database Management",
+      "Version Control",
+      "Testing & Debugging" 
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Freelancer",
+    "companyURL": "https://freelancer.com",
+    "companyLogo": "/images/freelancer.png",
+    "location": "",
+    "type": "Part-time",
+    "date": "Mar 2021 - Feb 2023",
+    "description": "As a freelance full-stack developer, I specialize in the MERN stack, delivering dynamic, real-time applications with expertise in WebSockets, GraphQL, and MongoDB's Change Streams. My unique background in electrical and electronics engineering enhances my ability to seamlessly integrate software solutions with embedded systems, providing clients with comprehensive and efficient technology implementations.",
+    "skills": [
+      "Front-End",
+      "Back-End",
+      "Graphic Design",
+      "Development Tools"
+    ]
+  }
+]
